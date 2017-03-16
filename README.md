@@ -60,3 +60,13 @@ References:
 "Seamless multi-master sync, that." Apache CouchDB. N.p., n.d. Web. 16 Mar. 2017.
 "CouchDB." Wikipedia. Wikimedia Foundation, 14 Mar. 2017. Web. 16 Mar. 2017.
 
+Git Hooks:
+
+Git Hooks are scripts that are run by Git before or after different actions are taken, examples being:
+commit, push, receive. It's as easy as overwriting the scripts in '.git/hooks' and making it executable.
+Git Hooks allows for increased productivity and are a built in feature so there is no need for additional
+downloads.
+
+References:
+
+Hudson, Matthew. "Learn how to improve your Git skills." GitHooks. N.p., n.d. Web. 16 Mar. 2017.
