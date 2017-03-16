@@ -11,13 +11,14 @@ data will be stored in a single place, decreasing the inconsistency of the data.
 makes it easier to understand the relationships in your data.
 
 References:
+
 "1NF, 2NF, 3NF and BCNF in Database Normalization | DBMS Tutorial | Studytonight." 1NF, 2NF, 3NF and BCNF in Database Normalization | DBMS Tutorial | Studytonight. N.p., n.d. Web. 16 Mar. 2017.
 "Database normalization." Wikipedia. Wikimedia Foundation, 15 Mar. 2017. Web. 16 Mar. 2017.
 "Introduction to Data Normalization: A Database "Best" Practice." Introduction to Data Normalization: A Database "Best" Practice. N.p., n.d. Web. 16 Mar. 2017.
 Searchsqlserver.techtarget.com. N.p., n.d. Web. 16 Mar. 2017.
 
 
-Graphs and Graph Databases
+Graphs and Graph Databases:
 
 A graph is a data structure consisting of a set of vetices(nodes) and a set of pairings known as edges.
 Graphs can come in many forms, directed, undirected, cyclic, etc, so they can fulfill a vast number
@@ -27,6 +28,21 @@ well as having more complex queries, while maintaining speed. In graph databases
 any number of relationships without having to sacrifice performance of the data model.
 
 References:
+
 "Graph (abstract data type)." Wikipedia. Wikimedia Foundation, 14 Mar. 2017. Web. 16 Mar. 2017.
 "Graphs as sets." Graphs in Computer Science. N.p., n.d. Web. 16 Mar. 2017. 
 "What is a Graph Database? A Property Graph Model Intro." Neo4j Graph Database. N.p., n.d. Web. 16 Mar. 2017.
+
+Groovy:
+
+Groovy is a dynamic object-oriented language for the Java Virtual Machine. It has similar features 
+to other programming languages such as Python, Ruby, and Perl. It is a compiled language that is 
+excuted by the Java Virtual Machine, meaning it can be run anywhere Java is used, giving it great
+flexibility. With its usage as a scripting language and it's Java like syntax, it serve as a tool
+for introducing developers to a scripting language.
+
+References:
+
+"What is Groovy? - Definition from WhatIs.com." TheServerSide. N.p., n.d. Web. 16 Mar. 2017.
+"Groovy Basics¶." Groovy Basics — SmartThings Developer Documentation. N.p., n.d. Web. 16 Mar. 2017.
+"A multi-faceted language for the Java platform." The Groovy programming language. N.p., n.d. Web. 16 Mar. 2017.
