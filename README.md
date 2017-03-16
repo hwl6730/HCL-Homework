@@ -46,3 +46,17 @@ References:
 "What is Groovy? - Definition from WhatIs.com." TheServerSide. N.p., n.d. Web. 16 Mar. 2017.
 "Groovy Basics¶." Groovy Basics — SmartThings Developer Documentation. N.p., n.d. Web. 16 Mar. 2017.
 "A multi-faceted language for the Java platform." The Groovy programming language. N.p., n.d. Web. 16 Mar. 2017.
+
+CouchDB:
+
+CouchDB is an open source document-oriented NoSQL database. Being document based is does not store
+relationships in a table like relational databases do, but instead use collections of JSON documents.
+One of the more exciting features of CouchDB is that the database does not lock the database during writes
+so access is all the more free. Also with it's clusted nature, CouchDB makes user data avaialable
+through many different methods.
+
+References:
+
+"Seamless multi-master sync, that." Apache CouchDB. N.p., n.d. Web. 16 Mar. 2017.
+"CouchDB." Wikipedia. Wikimedia Foundation, 14 Mar. 2017. Web. 16 Mar. 2017.
+
