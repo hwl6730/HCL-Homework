@@ -15,3 +15,18 @@ References:
 "Database normalization." Wikipedia. Wikimedia Foundation, 15 Mar. 2017. Web. 16 Mar. 2017.
 "Introduction to Data Normalization: A Database "Best" Practice." Introduction to Data Normalization: A Database "Best" Practice. N.p., n.d. Web. 16 Mar. 2017.
 Searchsqlserver.techtarget.com. N.p., n.d. Web. 16 Mar. 2017.
+
+
+Graphs and Graph Databases
+
+A graph is a data structure consisting of a set of vetices(nodes) and a set of pairings known as edges.
+Graphs can come in many forms, directed, undirected, cyclic, etc, so they can fulfill a vast number
+of requirements. A graph database is a type of NoSQL database that implements the concepts of graph
+theory to store, map, and query relationships. Graph databases allow for highly connected data as 
+well as having more complex queries, while maintaining speed. In graph databases nodes can support
+any number of relationships without having to sacrifice performance of the data model.
+
+References:
+"Graph (abstract data type)." Wikipedia. Wikimedia Foundation, 14 Mar. 2017. Web. 16 Mar. 2017.
+"Graphs as sets." Graphs in Computer Science. N.p., n.d. Web. 16 Mar. 2017. 
+"What is a Graph Database? A Property Graph Model Intro." Neo4j Graph Database. N.p., n.d. Web. 16 Mar. 2017.
